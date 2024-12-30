@@ -1,4 +1,4 @@
-module github.com/AaronWjf/postgresql-parser
+module github.com/auxten/postgresql-parser
 
 go 1.15
 

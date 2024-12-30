@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/certifi/gocertifi v0.0.0-20200922220541-2c3bb06c6054 // indirect
 	github.com/cockroachdb/apd v1.1.1-0.20181017181144-bced77f817b4
-	github.com/cockroachdb/errors v1.8.9
+	github.com/cockroachdb/errors v1.11.3
 	github.com/dustin/go-humanize v1.0.0
 	github.com/getsentry/raven-go v0.2.0
 	github.com/gogo/protobuf v1.3.2

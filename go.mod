@@ -30,5 +30,6 @@ require (
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 )
-
-replace golang.org/x/net v0.0.0-20190813000000-74dc4d7220e7 => golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+replace github.com/labstack/echo/v4 => github.com/labstack/echo/v4 v4.11.4
+replace github.com/getsentry/sentry-go => github.com/getsentry/sentry-go v0.30.0
+replace golang.org/x/net v0.0.0-20190813000000-74dc4d7220e7 => golang.org/x/net v0.23.0
